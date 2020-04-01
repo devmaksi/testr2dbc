@@ -1,0 +1,46 @@
+[
+  {
+    "id": "lksjflksjgklfsj",
+    "name": "Мультикарта",
+    "creditLimit": 1000002,
+    "image": "https://vtb.ru/36c383d3-5098-4415-84b4-6fa040418410.jpg",
+    "options": [
+      {
+        "id": "fkjgsflkgj",
+        "icon": "fa-ad",
+        "name": "Cash back",
+        "description": "До 15 с покупок"
+      }
+    ],
+    "bonuses": [
+      {
+        "id": "wretiweroti",
+        "icon": "fa-ad",
+        "name": "Путешествия",
+        "description": "Мили за любые покупки"
+      }
+    ]
+  },
+  {
+    "id": "lksjflksjgklfsj2",
+    "name": "Мультикарта",
+    "creditLimit": 1000003,
+    "image": "https://vtb.ru/36c383d3-5098-4415-84b4-6fa040418410.jpg",
+    "options": [
+      {
+        "id": "fkjgsflkgj",
+        "icon": "fa-ad",
+        "name": "Cash back",
+        "description": "До 15 с покупок"
+      }
+    ],
+    "bonuses": [
+      {
+        "id": "wretiweroti",
+        "icon": "fa-ad",
+        "name": "Путешествия",
+        "description": "Мили за любые покупки"
+      }
+    ]
+  }
+]
